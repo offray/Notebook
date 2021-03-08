@@ -9,6 +9,12 @@ Notebook is a clean, uncluttered theme for TiddlyWiki.
 - Notebook uses a custom left sidebar, with another sticky bar at the top of the
   page (or at the bottom on mobile).
 
+The theme has been used as a base for:
+
+- [Projectify](https://projectify.wiki/): Project management for TiddlyWiki.
+- [Notebook Mod](https://mutabit.com/repos.fossil/tiddlywiki/uv/seeds/notebook/notebook-mod.html#):
+  A Spanish variant of Notebook used to introduce TiddlyWiki to new users.
+
 ## Demo & Screenshots
 
 A demo is available at
